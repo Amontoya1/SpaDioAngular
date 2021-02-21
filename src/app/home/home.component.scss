@@ -1,0 +1,32 @@
+.home .title {
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.home .subtitle{
+  font-size: 1.1em;
+}
+
+.home{
+  background-color: rgba(189, 110, 149, 0.966);;
+}
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
